@@ -1,4 +1,4 @@
-#System Administration Bash Projects
+System Administration Bash Projects
 
 This repository contains a collection of practical Bash scripting projects developed in a Linux environment to build real system administration skills through hands-on automation. The work here moves beyond isolated scripting exercises and focuses on applying Bash to actual operational tasks such as system auditing, log analysis, backup management, and error reporting.
 
