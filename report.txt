@@ -1,0 +1,24 @@
+=== Log Report for /var/log/syslog ===
+Tue Sep 23 05:04:36 AM CDT 2025
+
+--- Top 20 'error' lines ---
+2025-09-21T01:00:16.322078-05:00 maurion-82td sa1[265117]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
+2025-09-21T01:06:39.219391-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/010639.219026:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:06:39.449203-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/010639.448744:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:06:39.453881-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/010639.453714:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:06:39.674400-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/010639.674140:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:10:16.335321-05:00 maurion-82td sa1[265890]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
+2025-09-21T01:20:16.334413-05:00 maurion-82td sa1[266486]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
+2025-09-21T01:30:16.330237-05:00 maurion-82td sa1[267073]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
+2025-09-21T01:32:14.568615-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013214.568176:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:14.805487-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013214.805311:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:14.821244-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013214.821075:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:15.048602-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013215.048547:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:23.142229-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013223.141969:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:23.372949-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013223.372890:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:28.721095-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013228.720653:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:28.946097-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013228.945985:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:28.967878-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013228.967639:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:32:29.202516-05:00 maurion-82td google-chrome-stable[160384]: [160443:160459:0921/013229.202466:ERROR:net/socket/ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+2025-09-21T01:40:16.323600-05:00 maurion-82td sa1[267914]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
+2025-09-21T01:50:05.214867-05:00 maurion-82td sa1[268488]: Error: File /etc/sensors.d/iwlwifi-ignore.conf, line 1: Parse error in chip name
