@@ -1,0 +1,38 @@
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from member names
+tar: /etc/netplan/01-network-manager-all.yaml: Cannot open: Permission denied
+tar: /etc/netplan/90-NM-c97255b0-687f-4691-9acb-cd899b786df5.yaml: Cannot open: Permission denied
+tar: /etc/ssl/private: Cannot open: Permission denied
+tar: /etc/ufw/after6.rules: Cannot open: Permission denied
+tar: /etc/ufw/before.rules: Cannot open: Permission denied
+tar: /etc/ufw/after.init: Cannot open: Permission denied
+tar: /etc/ufw/user.rules: Cannot open: Permission denied
+tar: /etc/ufw/user6.rules: Cannot open: Permission denied
+tar: /etc/ufw/after.rules: Cannot open: Permission denied
+tar: /etc/ufw/before6.rules: Cannot open: Permission denied
+tar: /etc/ufw/before.init: Cannot open: Permission denied
+tar: /etc/wvdial.conf: Cannot open: Permission denied
+tar: /etc/at.deny: Cannot open: Permission denied
+tar: /etc/initramfs-tools/conf.d/calamares-safe-initramfs.conf: Cannot open: Permission denied
+tar: /etc/shadow: Cannot open: Permission denied
+tar: /etc/ppp/pap-secrets: Cannot open: Permission denied
+tar: /etc/ppp/chap-secrets: Cannot open: Permission denied
+tar: /etc/gshadow: Cannot open: Permission denied
+tar: /etc/cni/net.d: Cannot open: Permission denied
+tar: /etc/sudoers: Cannot open: Permission denied
+tar: /etc/fwupd/fwupd.conf: Cannot open: Permission denied
+tar: /etc/shadow-: Cannot open: Permission denied
+tar: /etc/.pwd.lock: Cannot open: Permission denied
+tar: /etc/credstore: Cannot open: Permission denied
+tar: /etc/cups/ssl: Cannot open: Permission denied
+tar: /etc/cups/subscriptions.conf.O: Cannot open: Permission denied
+tar: /etc/cups/subscriptions.conf: Cannot open: Permission denied
+tar: /etc/gshadow-: Cannot open: Permission denied
+tar: /etc/credstore.encrypted: Cannot open: Permission denied
+tar: /etc/polkit-1/rules.d: Cannot open: Permission denied
+tar: /etc/sudoers.d/10-installer: Cannot open: Permission denied
+tar: /etc/sudoers.d/README: Cannot open: Permission denied
+tar: /etc/security/opasswd: Cannot open: Permission denied
+tar: /etc/default/cacerts: Cannot open: Permission denied
+tar: Exiting with failure status due to previous errors
